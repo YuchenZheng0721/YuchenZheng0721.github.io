@@ -23,11 +23,11 @@ repository               : "YuchenZheng0721/YuchenZheng0721.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuchen Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Master Student of Electrical Engineering"
+  location         : "New York"
+  employer         : "Columbia University"
   uri              : # URL
   email            : "none@example.org" 
 
