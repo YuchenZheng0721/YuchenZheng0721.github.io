@@ -1,11 +1,11 @@
 ---
 title: "Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision"
 collection: publications
-date: "2025-01-01"  # 使用正确的日期格式 YYYY-MM-DD
-venue: "Journal Name"  # 填写实际的期刊或会议名称
+date: "2025-01-01"  
+venue: "Journal Name"  
 authors: "Yu Li, Yuchen Zheng, Giles Hamilton-Fletcher, Marco Mezzavilla, Yao Wang, Sundeep Rangan, Maurizio Porfiri, Zhou Yu, John-Ross Rizzo"
-pdf: "#"  # 如果论文未发布，可以用 "#" 暂时占位
-code: "#"  # 如果代码未公开，可以用 "#" 占位
+pdf: "#" 
+code: "#"  
 ---
 
 Yu Li, Yuchen Zheng, Giles Hamilton-Fletcher, Marco Mezzavilla, Yao Wang, Sundeep Rangan, Maurizio Porfiri, Zhou Yu, John-Ross Rizzo  
