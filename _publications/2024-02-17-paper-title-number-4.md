@@ -10,7 +10,7 @@ code: "#"
 
 Yu Li, Yuchen Zheng, Giles Hamilton-Fletcher, Marco Mezzavilla, Yao Wang, Sundeep Rangan, Maurizio Porfiri, Zhou Yu, John-Ross Rizzo  
 
-[**Paper**](#)  
+[**Paper**](../files/paper_1.pdf)  
 [**Code**](#)  
 
 ## Abstract  
