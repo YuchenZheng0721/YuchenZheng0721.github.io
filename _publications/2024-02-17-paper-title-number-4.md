@@ -2,7 +2,7 @@
 title: "Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision"
 collection: publications
 date: "2025-01-01"  
-venue: "Journal Name"  
+venue: "#"  
 authors: "Yu Li, Yuchen Zheng, Giles Hamilton-Fletcher, Marco Mezzavilla, Yao Wang, Sundeep Rangan, Maurizio Porfiri, Zhou Yu, John-Ross Rizzo"
 pdf: "#" 
 code: "#"  
