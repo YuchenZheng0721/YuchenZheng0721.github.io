@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision"
 collection: publications
-date: 
+date:soon
 venue: ""
 ---
 Yu Li, Yuchen Zheng, Giles Hamilton-Fletcher, Marco Mezzavilla,Yao Wang, Sundeep Rangan, Maurizio Porfiri, Zhou Yu, John-Ross Rizzo
