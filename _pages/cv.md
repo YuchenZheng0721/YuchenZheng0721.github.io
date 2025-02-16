@@ -11,5 +11,5 @@ redirect_from:
 
 [Resume (in Chinese)](../files/郑宇辰_简历.pdf)
 
-[Research Statement](../files/Yuchen_Zheng_Research_Statement.pdf)
+
 
