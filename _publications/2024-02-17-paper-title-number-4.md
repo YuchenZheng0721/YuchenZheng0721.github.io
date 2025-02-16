@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: 
+venue: ""
 ---
+Yu Li, Yuchen Zheng, Giles Hamilton-Fletcher, Marco Mezzavilla,Yao Wang, Sundeep Rangan, Maurizio Porfiri, Zhou Yu, John-Ross Rizzo
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+[[Paper]()] 
+[[Code]()]
+
+Abstract:This paper investigates the potential of vision-language models (VLMs) to assist people with blindness and low vision (pBLV) in navigation tasks. We evaluate state-of-the-art closed-source models, including GPT-4V, GPT-4o, and Claude-3.5-Sonnet, alongside open-source models, such as Llava-v1.6-mistral and Llava-onevision-qwen, to analyze their capabilities in foundational visual skills such as counting ambient obstacles, relative spatial reasoning, and common-sense wayfinding-pertinent scene understanding. Following this foundational evaluation, we assess each model’s performance in practical navigation scenarios, using pBLV-specific prompts designed to simulate real-world assistance tasks. Our findings reveal notable performance disparities between these models: GPT-4o consistently outperforms others across all tasks, demonstrating high accuracy and reliability, particularly in spatial reasoning and scene understanding. In contrast, open-source models exhibit significant shortcomings, struggling with tasks that require nuanced reasoning or adaptability in complex environments. Common challenges across models include difficulties in accurately counting objects in cluttered settings, biases in spatial reasoning, and a tendency to prioritize object details over spatial feedback, which limits their usability for pBLV in navigation tasks. Despite these limitations, VLMs show promise in enhancing wayfinding assistance when aligned more closely with human feedback and equipped with improved spatial reasoning capabilities. This research provides actionable insights into the strengths and limitations of current VLMs, highlighting their benefits and pitfalls in the context of pBLV assistive technologies, offering targeted guidance to developers on effectively integrating VLMs for tasks they perform well, while addressing their limitations for enhanced usability.
